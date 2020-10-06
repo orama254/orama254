@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/orama254/orama254/master/orama254_readme_banner.png" alt="Banner Image for Rama Ochieng, Devsigner,Designer and Developer">
 
-<p><img align="center" alt="orama254's Github Stats" src="https://github-readme-stats.orama254.vercel.app/api?username=orama254&hide=stars&bg_color=002046&icon_color=ffff00&title_color=ffff00&text_color=ffffff&show_icons=true" /> <img align="center" alt="orama254's Github Stats" src="https://github-readme-stats.orama254.vercel.app/api/top-langs?username=orama254&bg_color=002046&icon_color=ffff00&title_color=ffff00&text_color=ffffff&show_icons=true&layout=compact" /></p>
+<p><img align="center" alt="orama254's Github Stats" src="https://github-readme-stats.orama254.vercel.app/api?username=orama254&hide=stars&theme=yeblu&show_icons=true" /> <img align="center" alt="orama254's Github Stats" src="https://github-readme-stats.orama254.vercel.app/api/top-langs?username=orama254&theme=yeblu&show_icons=true&layout=compact" /></p>
 
 
 
