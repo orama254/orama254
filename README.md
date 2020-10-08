@@ -1,4 +1,4 @@
-### Greetings, I'm Rama
+### Hello, I'm Rama
 
 <img src="https://raw.githubusercontent.com/orama254/orama254/master/orama254_readme_banner.png" alt="Banner Image for Rama Ochieng, Devsigner,Designer and Developer">
 
