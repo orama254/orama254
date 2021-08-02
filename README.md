@@ -1,10 +1,10 @@
 ### Hello, I'm Rama
 
-<img src="https://raw.githubusercontent.com/orama254/orama254/master/orama254_readme_banner.png" alt="Banner Image for Rama Ochieng, Devsigner,Designer and Developer">
+<img src="https://raw.githubusercontent.com/orama254/orama254/master/orama254_readme_banner.png" alt="Banner Image for Rama Ochieng, RamaDevsign,Designer and Developer">
 
 <p align="center">
   <img width="48%" alt="orama254's Github Stats" src="https://github-readme-stats.orama254.vercel.app/api?username=orama254&hide=stars&theme=yeblu&show_icons=true" /> 
-  <img width="41%" alt="orama254's Github Stats" src="https://github-readme-stats.orama254.vercel.app/api/top-langs?username=orama254&theme=yeblu&show_icons=true&layout=compact" />
+  <img width="48%" alt="orama254's Github Stats" src="https://github-readme-stats.orama254.vercel.app/api/top-langs?username=orama254&theme=yeblu&show_icons=true&layout=compact" />
 </p>
 
 
