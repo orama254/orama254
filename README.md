@@ -4,6 +4,32 @@ ___
 
 ### Hi, I'm Rama aka RamaDevsign. 
 ### I help Create Beautiful Experiences Online. Checkout My Website [HERE](https://ramadevsign.com)
+
+### <p align="center">Tech Stack</p>
+<br/>
+
+### <p>Frontend/SWE</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,sass,js,ts,react,vite,nextjs,tailwind,mongodb,postgres,supabase,nodejs,git,github,githubactions,prisma,jest,docker,azure,vercel,gcp,vitest,vim,neovim,sentry,redux,redis,pnpm,linux,kafka,cypress,aws,vscode&perline=15&theme=dark" />
+</p>
+<br/>
+
+### <p>Web3</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,react,vite,nextjs,tailwind,postgres,mongodb,supabase,nodejs,rust,prisma,jest,docker,git,github,azure,vercel,gcp,githubactions,vitest,vim,neovim,sentry,redux,redis,py,pnpm,linux,kafka,cypress,aws,vscode&perline=15&theme=dark" />
+</p>
+<br/>
+
+### <p>Data Engineering/Analysis</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,py,postgres,linux,kafka,cypress,aws,vscode&perline=15&theme=dark" />
+</p>
+<br/>
+
+### <p>Cloud</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,bash,linux,kafka&perline=15&theme=dark" />
+</p>
 ___
 
 <p align="center">
