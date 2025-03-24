@@ -8,28 +8,29 @@ ___
 ### <p align="center">Tech Stack</p>
 <br/>
 
-### <p>Frontend/SWE</p>
+<details><summary><b>Frontend/SWE</b></summary>
 <p>
   <img src="https://skillicons.dev/icons?i=figma,html,css,sass,js,ts,react,vite,nextjs,tailwind,mongodb,postgres,supabase,nodejs,git,github,githubactions,prisma,jest,docker,azure,vercel,gcp,vitest,vim,neovim,sentry,redux,redis,pnpm,linux,kafka,cypress,aws,vscode&perline=15&theme=dark" />
 </p>
-<br/>
+</details>
 
-### <p>Web3</p>
+<details><summary><b>Web3</b></summary>
 <p>
   <img src="https://skillicons.dev/icons?i=figma,react,vite,nextjs,tailwind,postgres,mongodb,supabase,nodejs,rust,prisma,jest,docker,git,github,azure,vercel,gcp,githubactions,vitest,vim,neovim,sentry,redux,redis,py,pnpm,linux,kafka,cypress,aws,vscode&perline=15&theme=dark" />
 </p>
-<br/>
+</details>
 
-### <p>Data Engineering/Analysis</p>
+<details><summary><b>Data Engineering/Analysis</b></summary>
 <p>
   <img src="https://skillicons.dev/icons?i=azure,gcp,py,postgres,linux,kafka,cypress,aws,vscode&perline=15&theme=dark" />
 </p>
-<br/>
+</details>
 
-### <p>Cloud</p>
+<details><summary><b>Cloud</b></summary>
 <p>
   <img src="https://skillicons.dev/icons?i=azure,gcp,aws,bash,linux,kafka&perline=15&theme=dark" />
 </p>
+</details>
 ___
 
 <p align="center">
