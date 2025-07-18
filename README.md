@@ -42,6 +42,9 @@ ___
 
 [![@ramadevsign's Holopin board](https://holopin.me/ramadevsign)](https://holopin.io/@ramadevsign)
 
+<img width="1295" height="408" alt="orama254_crypto_donate" src="https://github.com/user-attachments/assets/54abd1b6-6c39-43c9-82d2-201a6130fd31" />
+
+
 
 <!--
 **orama254/orama254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
